@@ -20,7 +20,6 @@ public class Frame extends JFrame {
     private int oper = 0;
     private JButton[] button = new JButton[20];
 
-
     public Frame() {
         Font buttonFont = new Font("serif", 0, 30);
         Font labelFont = new Font("arial", 1, 30);
