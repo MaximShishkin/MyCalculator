@@ -1,4 +1,4 @@
-package ru.shishkin.calculator;
+package ru.shishkin.maxim.calculator;
 
 import java.awt.Color;
 import java.awt.Container;

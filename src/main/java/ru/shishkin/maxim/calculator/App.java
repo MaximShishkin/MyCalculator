@@ -1,6 +1,6 @@
-package ru.shishkin.calculator;
+package ru.shishkin.maxim.calculator;
 
-public class Application {
+public class App {
     public static void main(String[] args) {
         new Frame();
     }
